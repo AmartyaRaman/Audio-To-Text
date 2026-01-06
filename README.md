@@ -1,6 +1,6 @@
 Audio Transcript translator
 
-Input -> Audio file, Language to be translated
+Input -> Audio file, Language to be translated                                                                   
 Output -> Translated text
 
 Models used:-
@@ -8,3 +8,4 @@ Models used:-
   2. gpt-4
 
 Web framework handled by Flask
+
